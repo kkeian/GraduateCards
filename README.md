@@ -1,7 +1,7 @@
 # Graduate Cards
 
 [![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/kkeian/GraduateCards/blob/main/LICENSE)
-[![Rate on AnkiWeb](https://glutanimate.com/logos/ankiweb-rate.svg)](https://ankiweb.net/shared/info/)
+[![Rate on AnkiWeb](https://glutanimate.com/logos/ankiweb-rate.svg)](https://ankiweb.net/shared/info/544867715)
 
 Suspend or delete cards if they are past the threshold number of days.
 
@@ -9,7 +9,7 @@ Suspend or delete cards if they are past the threshold number of days.
 
 ## Installation Options
 
-1. Install from [AnkiWeb](https://ankiweb.net/shared/info/)
+1. Install from [AnkiWeb](https://ankiweb.net/shared/info/544867715)
 2. Clone this repo into your add-ons folder.  
 For more information read the Anki Add-Ons Docs.
 
