@@ -1,0 +1,6 @@
+{
+  "deck_names": ["Default"],
+  "action": 2,
+  "threshold": 90,
+  "threshold_parameter": 1
+}
