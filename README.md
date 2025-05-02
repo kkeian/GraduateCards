@@ -15,16 +15,18 @@ For more information read the Anki Add-Ons Docs.
 
 ## Configuration
 
-Configuration is done via `config.json`.
+Tools -> Graduate Cards -> View Config
 
 ### Parameters
-- **deck_name** - name of the deck to target. **Default = Default**
+- **deck_names** - names of the decks to target.  
+**Default = ["Default"]**
 - **action** - action to take on cards.   
-1 = Delete, 2 = Suspend, 3 = Disable. **Default = 2.**
-- **threshold_parameter** - the   
-1 = due in days, 2 = stability. **Default = 1.**
+**Default = "Suspend".**
+- **threshold_parameter** - the parameter to target card thresholds by.  
+**Default = "Due in Days"**
 - **threshold** - the number of days the threshold parameter  
-should be at before the action is taken. **Default = 90**  
+should be at before the action is taken.  
+**Default = 90**  
 
 ## Development/Contributing
 - **Python 3.9** is confirmed to work with this add on.
