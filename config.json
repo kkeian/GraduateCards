@@ -1,6 +1,6 @@
 {
-  "deck_names": ["Default"],
-  "action": 2,
-  "threshold": 90,
-  "threshold_parameter": 1
+    "decks": ["Default"],
+    "action": "Suspend",
+    "threshold": 90,
+    "threshold_parameter": "Due in Days"
 }
